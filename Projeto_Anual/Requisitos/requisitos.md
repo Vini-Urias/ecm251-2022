@@ -1,0 +1,14 @@
+## Requisitos 
+-Promoções
+-Jogos
+-Buscar
+-Categorias
+-Noticias
+-Navegação por area
+-Area do usuario
+-Compra
+-Devolução
+-Reembolso
+-Feedback
+-Perfil de cada jogo
+-Sistema de trofeus
